@@ -114,4 +114,19 @@
 .alto-contraste .btn-primary {
     background-color: var(--laranja-claro);
     color: var(--preto);
+}.alto-contraste {
+    background-color: var(--preto);
+    color: var(--branco);
+}
+
+.alto-contraste .cabecalho,
+.alto-contraste .rodape,
+.alto-contraste .agro {
+    background-color: var(--preto);
+    color: var(--branco);
+}
+.alto-contraste .botao-inicio,
+.alto-contraste .btn-primary {
+    background-color: var(--laranja-claro);
+    color: var(--preto);
 }
